@@ -10,7 +10,7 @@ The aim of this project is to design and develop a portable, low-cost air qualit
 - Display readings on an LCD.
 This device can be used in homes, offices, or outdoor environments to monitor pollution levels and support informed decisions about air quality management.
 
-ABSTRACT:
+## ABSTRACT:
 
 Air pollution is a critical environmental issue that directly impacts human health, particularly in urban areas where pollutant concentrations can rise to hazardous levels. This project presents the development of a low-cost, portable air quality monitoring device using an Arduino microcontroller. The device is designed to measure key air pollutants, including particulate matter (PM), carbon monoxide (CO), nitrogen dioxide (NO₂), and volatile organic compounds (VOCs), providing real-time monitoring and display of air quality data. Utilizing sensors such as the MQ-series and PMS5003, the device captures pollutant levels, displays the data on an LCD screen, and can optionally store data or transmit it for remote access. Additionally, the device features programmable alert thresholds, allowing users to be notified when pollutant levels exceed safe limits. This project aims to create an accessible solution for individuals and communities to understand better and respond to air quality issues, thereby promoting healthier environments and increasing awareness of air pollution's effects on health.
 
