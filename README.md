@@ -42,7 +42,7 @@ Resistors: If necessary, for specific sensor configurations or pull-up/pull-down
 ![Screenshot 2025-03-03 003041](https://github.com/user-attachments/assets/ff185605-27d4-4516-9bd9-ec51e353808d)
 
 
-Block diagram of Air Quality Monitoring System
+## Block diagram of Air Quality Monitoring System
 
 ![Screenshot 2025-03-03 003159](https://github.com/user-attachments/assets/896e13be-de73-4ad3-8ffc-4aebeb811ddf)
 
