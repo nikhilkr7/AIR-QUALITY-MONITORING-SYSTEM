@@ -46,7 +46,7 @@ Resistors: If necessary, for specific sensor configurations or pull-up/pull-down
 
 ![Screenshot 2025-03-03 003159](https://github.com/user-attachments/assets/896e13be-de73-4ad3-8ffc-4aebeb811ddf)
 
-Circuit diagram of Air Quality Monitoring System
+## Circuit diagram of Air Quality Monitoring System
 
 ![image](https://github.com/user-attachments/assets/14f11bbc-4d3f-4c10-8513-96f5b9ad6189)
 
