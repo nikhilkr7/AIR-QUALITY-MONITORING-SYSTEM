@@ -50,7 +50,7 @@ Resistors: If necessary, for specific sensor configurations or pull-up/pull-down
 
 ![image](https://github.com/user-attachments/assets/14f11bbc-4d3f-4c10-8513-96f5b9ad6189)
 
-RESULTS:
+## RESULTS:
 
 
 ![Screenshot 2025-03-03 003429](https://github.com/user-attachments/assets/4f1bd079-ee3d-4f96-a9a0-363c493c86d7)
