@@ -19,7 +19,8 @@ Air pollution is a critical environmental issue that directly impacts human heal
 Air pollution poses serious health risks, particularly in densely populated and industrial areas, where pollutants like particulate matter (PM), carbon monoxide (CO), nitrogen dioxide (NO₂), and volatile organic compounds (VOCs) can reach dangerous levels. However, personal and community access to air quality data remains limited due to the high cost and inaccessibility of large-scale monitoring stations. This project addresses this need by developing a portable, affordable air quality monitoring device using an Arduino microcontroller. Equipped with various sensors, the device measures key pollutants in real time and displays this information on an LCD screen, enabling users to monitor air quality in homes, offices, and outdoor environments. Configurable alert thresholds provide immediate notifications when pollutant levels exceed safe limits, while optional data storage and wireless transmission support long-term tracking and analysis. This device offers an accessible solution to raise awareness and promote healthier environments by empowering individuals to monitor and respond to local air quality conditions.
 
 ## HARDWARE REQUIREMENT/DESCRIPTION
-Arduino Uno: The microcontroller that acts as the central processing unit, responsible for
+#### Arduino Uno:
+The microcontroller that acts as the central processing unit, responsible for
 receiving and processing data from the air quality sensor, temperature, and humidity sensor,
 and displaying the information.
 LED or LCD Display: A display module, such as a 16x2 LCD or OLED display, used to
