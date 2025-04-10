@@ -37,7 +37,7 @@ Breadboard: Optional for organizing and testing the circuit connections in a pro
 setup.
 Resistors: If necessary, for specific sensor configurations or pull-up/pull-down purposes.
 
-## CIRCUIT/COMPONENT SPECIFICATIONS:
+## CIRCUIT/COMPONENT SPECIFICATIONS
 
 ![Screenshot 2025-03-03 003041](https://github.com/user-attachments/assets/ff185605-27d4-4516-9bd9-ec51e353808d)
 
