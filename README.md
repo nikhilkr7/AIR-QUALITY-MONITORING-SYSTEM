@@ -26,7 +26,7 @@ and displaying the information.
 #### LED or LCD Display: 
 A display module, such as a 16x2 LCD or OLED display, used to
 showcase the AQI, temperature, and humidity readings clearly and effectively.
-Air Quality Sensor: 
+#### Air Quality Sensor: 
 A sensor like the MQ-135 or PMS5003 that measures air quality and
 particulate matter, providing the necessary data to calculate the AQI.
 Temperature and Humidity Sensor: A sensor such as the DHT11 or DHT22 that measures
