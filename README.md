@@ -23,7 +23,8 @@ Air pollution poses serious health risks, particularly in densely populated and 
 The microcontroller that acts as the central processing unit, responsible for
 receiving and processing data from the air quality sensor, temperature, and humidity sensor,
 and displaying the information.
-LED or LCD Display: A display module, such as a 16x2 LCD or OLED display, used to
+LED or LCD Display: 
+A display module, such as a 16x2 LCD or OLED display, used to
 showcase the AQI, temperature, and humidity readings clearly and effectively.
 Air Quality Sensor: A sensor like the MQ-135 or PMS5003 that measures air quality and
 particulate matter, providing the necessary data to calculate the AQI.
