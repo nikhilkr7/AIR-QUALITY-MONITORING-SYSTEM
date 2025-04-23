@@ -37,7 +37,7 @@ ambient temperature and humidity levels.
 A reliable power source, such as a battery pack (e.g., 9V battery or
 rechargeable LiPo battery) or USB power adapter, to power the Arduino and other connected
 components.
-Connecting Wires: Jumper wires to connect the sensors, display, and Bluetooth module to
+##### Connecting Wires: Jumper wires to connect the sensors, display, and Bluetooth module to
 the Arduino for data transmission.
 Breadboard: Optional for organizing and testing the circuit connections in a prototype
 setup.
