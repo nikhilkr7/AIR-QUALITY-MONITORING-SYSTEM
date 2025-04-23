@@ -40,7 +40,8 @@ components.
 ##### Connecting Wires: 
 Jumper wires to connect the sensors, display, and Bluetooth module to
 the Arduino for data transmission.
-##### Breadboard: Optional for organizing and testing the circuit connections in a prototype
+##### Breadboard: 
+Optional for organizing and testing the circuit connections in a prototype
 setup.
 Resistors: If necessary, for specific sensor configurations or pull-up/pull-down purposes.
 
