@@ -34,7 +34,7 @@ particulate matter, providing the necessary data to calculate the AQI.
 ambient temperature and humidity levels.
 
 ### Power Supply:
-A reliable power source, such as a battery pack (e.g., 9V battery or
+* A reliable power source, such as a battery pack (e.g., 9V battery or
 rechargeable LiPo battery) or USB power adapter, to power the Arduino and other connected
 components.
 ### Connecting Wires: 
