@@ -20,7 +20,7 @@ Air pollution poses serious health risks, particularly in densely populated and 
 
 ## HARDWARE REQUIREMENT/DESCRIPTION
 ### Arduino Uno:
-The microcontroller that acts as the central processing unit, responsible for
+* The microcontroller that acts as the central processing unit, responsible for
 receiving and processing data from the air quality sensor, temperature, and humidity sensor,
 and displaying the information.
 ### LED or LCD Display: 
