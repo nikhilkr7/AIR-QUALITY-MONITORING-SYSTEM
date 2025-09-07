@@ -44,7 +44,7 @@ the Arduino for data transmission.
 * Optional for organizing and testing the circuit connections in a prototype
 setup.
 ### Resistors: 
-If necessary, for specific sensor configurations or pull-up/pull-down purposes.
+* If necessary, for specific sensor configurations or pull-up/pull-down purposes.
 
 ## CIRCUIT/COMPONENT SPECIFICATIONS
 
